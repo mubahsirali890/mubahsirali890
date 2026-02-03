@@ -2,13 +2,11 @@
 
 Software Engineering Student | Full-Stack Development Enthusiast
 
----
 
 ## Welcome 👋
 
 I'm a 5th-semester Software Engineering student passionate about building scalable applications and solving complex problems through code. I'm actively learning modern web technologies and best practices in software development.
 
----
 
 ## About Me
 
@@ -17,7 +15,6 @@ I'm a 5th-semester Software Engineering student passionate about building scalab
 - **Focus:** Full-stack web development, backend systems, and software architecture
 - **Goal:** Build meaningful projects and contribute to the tech community
 
----
 
 ## Technical Skills
 
@@ -45,14 +42,12 @@ I'm a 5th-semester Software Engineering student passionate about building scalab
 - Docker (learning)
 - Linux / Command Line
 
----
 
 ## Connect With Me
 
 - 🔗 GitHub: [github.com/mubahsirali890](https://github.com/mubahsirali890)
 - 📧 Email: Open to collaboration and opportunities
 
----
 
 ## Current Learning
 
